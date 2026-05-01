@@ -813,7 +813,7 @@ button { font: inherit; cursor: pointer; border: 0; background: none; }
 
 .standorte-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 0;
   border: 2px solid var(--ink);
 }
